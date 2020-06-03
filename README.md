@@ -1,3 +1,13 @@
+# What are the new features？
+
+Original mydumper is not support for OceanBase 2.1, but i need the features, so i add it.
+
+**IMPORTANT: The OceanBase support is not robust, prohibited to use in production environment!!!**
+
+-----
+
+
+
 # What is mydumper? Why?
 
 * Parallelism (hence, speed) and performance (avoids expensive character set conversion routines, efficient code overall)
